@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Database file
+food_wastage.db
+
+# VSCode settings
+.vscode/
